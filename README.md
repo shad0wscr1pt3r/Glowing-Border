@@ -51,9 +51,9 @@ The CSS file contains the styles needed to create the animated glowing border ef
 
 ## Author
 
-Developed by [Shad0scr1pt3r].
+Developed by Shad0scr1pt3r.
 
 ---
 
-© 2024 [Shad0scr1pt3r] - All rights reserved.
+© 2024 Shad0scr1pt3r - All rights reserved.
 
